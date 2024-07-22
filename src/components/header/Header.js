@@ -23,7 +23,7 @@ function Header() {
           <p className="blance">{total}</p>
         </div>
         <div className="con">
-          <h4>EXPENCE</h4>
+          <h4>EXPENSE</h4>
           <p className="expence">{Math.abs(expense)}</p>
         </div>
       </div>
