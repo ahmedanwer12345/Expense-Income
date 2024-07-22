@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expense-Income/static/css/main.a4d7acc2.css",
+    "main.js": "/Expense-Income/static/js/main.ad3bda16.js",
+    "index.html": "/Expense-Income/index.html",
+    "main.a4d7acc2.css.map": "/Expense-Income/static/css/main.a4d7acc2.css.map",
+    "main.ad3bda16.js.map": "/Expense-Income/static/js/main.ad3bda16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4d7acc2.css",
+    "static/js/main.ad3bda16.js"
+  ]
+}
